@@ -35,4 +35,4 @@ cat = Cat("Whiskers")
 lion = Lion("Simba")
 golden_retriever = GoldenRetriever("Max")
 
-a = 2
+a = 4
