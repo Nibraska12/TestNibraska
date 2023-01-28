@@ -35,7 +35,4 @@ cat = Cat("Whiskers")
 lion = Lion("Simba")
 golden_retriever = GoldenRetriever("Max")
 
-print(dog.speak())
-print(cat.speak())
-print(lion.speak())
-print(golden_retriever.speak())
+
